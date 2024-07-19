@@ -1,0 +1,20 @@
+message: "If you use this software, please cite it using the metadata in the CFF file."
+authors:
+  - family-names: Sobkowski
+    given-names: Steven 
+    orcid: "https://orcid.org/0009-0006-5098-2550"
+  - family-names: Dumont
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-6923-0950"
+title: csVis - Connect letters across digital scholarly editions 
+abstract: ""
+type: software
+date-released: "2023-11-22"
+version: 1.0.0
+repository-code: "https://github.com/correspSearch/csVis"
+license: "LGPL-3.0"
+url: "https://correspsearch.net/en/csVis.html"
+contact:
+  - email: correspSearch@bbaw.de
+    name: "correspSearch - Connecting Scholarly Editions of Correspondence"
+cff-version: 1.2.0
