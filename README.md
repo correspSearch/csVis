@@ -1,10 +1,10 @@
 # csVis
 
-Different Visualisations for correspsearch-data
+Visualisations for search results in [correspSearch](https://correspsearch.net/de/start.html)
 
 ## Credits
 
-Developer: Stefan Dumont & Steven Sobkowski
+Developer: Steven Sobkowski
 
 for the purpose of the DFG project "correspSearch - Connecting Scholarly Editions of Letters" at Berlin-Brandenburg Academy of Sciences and Humanities (BBAW).
 
@@ -17,7 +17,7 @@ Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) 
 
 ## License
 
-Copyright (C) 2014-2024 Berlin-Brandenburg Academy of Sciences and Humanities.
+Copyright (C) 2024 Berlin-Brandenburg Academy of Sciences and Humanities.
 
 csVis is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
